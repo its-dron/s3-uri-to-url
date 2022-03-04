@@ -15,5 +15,5 @@ https://s3.console.aws.amazon.com/s3/buckets/sample_bucket?prefix=any/long/prefi
 ## Installation
 
 ```
-pip install .
+pip install s3_uri_to_url
 ```
